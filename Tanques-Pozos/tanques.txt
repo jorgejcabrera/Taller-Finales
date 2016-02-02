@@ -1,0 +1,5 @@
+TanqueA -2 -1 8 6  
+TanqueB 17 6 20 7
+TanqueC 19 11 22 13
+TanqueD 4 14 8 17
+TanqueE 24 8 27 11

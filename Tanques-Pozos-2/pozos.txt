@@ -1,0 +1,3 @@
+PozoA 6 10 4
+PozoB 20 6 5
+PozoC 27 12 3
